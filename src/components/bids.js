@@ -60,7 +60,7 @@ export default function Bids ( {houseId} ) {
     return (
         <>
             { (Bids && Bids.length === 0)
-                    ? <h2>No Bids for this strange stuff</h2>
+                    ? <h2 className="rosy-text">No Bids for this strange stuff</h2>
                     : 
             (<table className="table">
                 <thead>

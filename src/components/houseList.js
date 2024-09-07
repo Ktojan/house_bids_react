@@ -13,7 +13,7 @@ const HouseList = () => {
         <>
             <AddHouse setHouses={setHouses} HOUSES={HOUSES} countries={countries}/>
             <div className="row mb-2">
-                <h3 className="text-center">
+                <h3 className="text-center rosy-text">
                 Collection of paranormal houses for weird but rich people</h3>
             </div>
             <table className='table'>

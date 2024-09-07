@@ -3,3 +3,8 @@
     border-radius: 8px;
     cursor: pointer;
 }
+
+.github {
+    margin-left: 10%;
+    color: rgb(255, 91, 121);
+}

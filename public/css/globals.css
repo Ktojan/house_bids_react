@@ -18,7 +18,7 @@ tr, button, a, .logo {
     background-color: var(--sub);
     margin: auto;
   }
-
+  
   /* HOuselist */
   details {
     border: 1px solid #aaa;
@@ -34,6 +34,10 @@ tr, button, a, .logo {
   details[open] summary {
     border-bottom: 1px solid #aaa;
     margin-bottom: 0.5em;
+  }
+
+  .rosy-text {
+    color: var(--sub);
   }
 
 

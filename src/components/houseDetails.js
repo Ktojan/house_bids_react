@@ -36,7 +36,7 @@ const HouseDetails = () => {
           <h5 className="col-12">{house &&  house.address}</h5>
         </div>
         <div className="row">
-          <h2 className="col-12">
+          <h2 className="col-12 rosy-text">
             {currencyFormatter.format(house && house.price)}
           </h2>
         </div>
