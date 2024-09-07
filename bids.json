@@ -1,0 +1,112 @@
+{
+  "bids": [
+    {
+      "id": 1,
+      "houseId": 1,
+      "bidder": "Sonia fon Crazy",
+      "amount": 200000
+    },
+    {
+      "id": 2,
+      "houseId": 1,
+      "bidder": "Dick Strangeman",
+      "amount": 202400
+    },
+    {
+      "id": 3,
+      "houseId": 2,
+      "bidder": "Mohammed Allahubar",
+      "amount": 302400
+    },
+    {
+      "id": 4,
+      "houseId": 2,
+      "bidder": "Jane Sleepless",
+      "amount": 310500
+    },
+    {
+      "id": 5,
+      "houseId": 2,
+      "bidder": "John Killer-Kepler",
+      "amount": 315400
+    },
+    {
+      "id": 6,
+      "houseId": 3,
+      "bidder": "Napol Bonapar",
+      "amount": 201000
+    },
+    {
+      "id": 7,
+      "houseId": 3,
+      "bidder": "Melissa Avoidme",
+      "amount": 277000
+    },
+    {
+      "id": 8,
+      "houseId": 4,
+      "bidder": "Scott Max-Insane",
+      "amount": 450000
+    },
+    {
+      "id": 9,
+      "houseId": 4,
+      "bidder": "Christine Medium",
+      "amount": 470000
+    },
+    {
+      "id": 10,
+      "houseId": 5,
+      "bidder": "Omesh Omish",
+      "amount": 450000
+    },
+    {
+      "id": 11,
+      "houseId": 5,
+      "bidder": "Charlotte Ghostbustr",
+      "amount": 150000
+    },
+    {
+      "id": 12,
+      "houseId": 9,
+      "bidder": "Marcus Scott",
+      "amount": 540000
+    },
+    {
+      "houseId": 1,
+      "bidder": "Garold O'Gamer",
+      "amount": 203000,
+      "id": 13
+    },
+    {
+      "houseId": 2,
+      "bidder": "Richyet Creisy Guy",
+      "amount": 355060,
+      "id": 14
+    },
+    {
+      "houseId": 1,
+      "bidder": "Mister Experimenter",
+      "amount": 225000,
+      "id": 15
+    },
+    {
+      "houseId": 8,
+      "bidder": "Morgan Strange",
+      "amount": 735000,
+      "id": 16
+    },
+    {
+      "houseId": 8,
+      "bidder": "Morgan Stranger",
+      "amount": 747582,
+      "id": 17
+    },
+    {
+      "houseId": 6,
+      "bidder": "Fransis",
+      "amount": 600000,
+      "id": 18
+    }
+  ]
+}

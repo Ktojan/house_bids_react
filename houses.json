@@ -1,0 +1,74 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "country": "Bosnia",
+      "address": "13th Friday Hill",
+      "price": 492362,
+      "paranormal_feature": "every Friday 13 the evil comes and turn your life to nightmare",
+      "photo": "1"
+    },
+    {
+      "id": 2,
+      "country": "Bulgaria",
+      "address": "11487 Dead Men Sorrow Pass",
+      "price": 830000,
+      "paranormal_feature": "Gives you a harsh feeling, full of sorrows and grief. Your pets are acting strange.",
+      "photo": "2"
+    },
+    {
+      "id": 3,
+      "country": "Ireland",
+      "address": "66600 Vampire School Drive",
+      "price": 666000,
+      "photo": "3",
+      "paranormal_feature": "with such address you can become a Devil-manager in 2 years"
+    },
+    {
+      "id": 4,
+      "photo": "4",
+      "country": "Serbia",
+      "address": "46547 Little Deadly Spiders Road",
+      "price": 438070,
+      "paranormal_feature": "Odors inexplicably emerge from a localized area during a specific time of day"
+    },
+    {
+      "id": 5,
+      "photo": "5",
+      "country": "Kosovo",
+      "address": "4562 Poltergeist Lane",
+      "price": 448881,
+      "paranormal_feature": "Weird sounds like whispering voices might indicate that another being is trying to get your attention."
+    },
+    {
+      "id": 6,
+      "photo": "6",
+      "country": "Romania",
+      "address": "26260 Express Your Pain Hill",
+      "price": 588875,
+      "paranormal_feature": "Frigidly cold areas of a room, as well as a sudden drop in temperature (usually between 20-30 degrees), can mean there’s a ghost among you."
+    },
+    {
+      "id": 7,
+      "photo": "7",
+      "country": "Serbia",
+      "address": "53 Looking Salvation Parkway",
+      "price": 602120,
+      "paranormal_feature": "TVs or electronic devices turning on and off can be a sign that an entity is pulling its energy from your power source."
+    },
+    {
+      "id": 8,
+      "country": "Serbia",
+      "address": "2 Whats Goinon Alley",
+      "price": 738429,
+      "paranormal_feature": "Missing objects are found in strange areas of your home, in places other than where they were left or are usually kept."
+    },
+    {
+      "address": "Graph the Drakula 12, Amsterdam",
+      "country": "The Netherlands",
+      "description": "You have strange dreams you’ve never experienced before, and at night, feel a sensation of touch as though something or someone is reaching out to you.",
+      "price": 200500,
+      "id": 9
+    }
+  ]
+}
