@@ -1,7 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Next.js and React 18 project. Demo is hosted on [Vercel](https://houses-bids-react.vercel.app/)
 
 It's a demo SPA-app: an auction for houses - not usual ones, but with "things". They all have some paranormal features. But the code is written without any "dark energy":
-only clean and optimized React.js code, based on SOLID rules and other design patterns. All given data is totally fake, photos were grabbed from a free source https://pixabay.com/.
+only clean and optimized React.js code, based on SOLID rules and other design patterns. All given data is totally fake, photos have been grabbed from a free source pixabay.
 
 ![bids2](https://github.com/user-attachments/assets/10615d77-d6dc-4119-94d6-59e483a9a903)
 
